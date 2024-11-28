@@ -1,2 +1,2 @@
 # portfolio
-/meu primeiro portfolio básico 
+meu primeiro portfolio básico 
